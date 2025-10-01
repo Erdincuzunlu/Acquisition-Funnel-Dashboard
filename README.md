@@ -1,7 +1,7 @@
 # Acquisition Funnel Dashboard
 
 <p align="center">
-  <img src="./dashboard_screenshot.png" alt="Dashboard Screenshot" width="800">
+  <img src="./dashboard_screenshot" alt="Dashboard Screenshot" width="800">
 </p>
 
 ## Overview
